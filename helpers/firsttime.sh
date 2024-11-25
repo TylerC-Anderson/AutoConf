@@ -1,13 +1,7 @@
 #!/bin/bash
 
-# TODO: Check if the script is run with sudo, and exit if not
-# Hint: Use the EUID check like in the main script.
-
-# TODO: Update and upgrade the system
-# - Run `sudo apt update` and `sudo apt upgrade -y` to ensure the latest software versions.
-
 # TODO: Install core dependencies
-# - Install essential tools: curl, wget, git, zsh, build-essential, etc.
+# - Install essential tools: curl, wget, zsh, build-essential, etc.
 
 # TODO: Set up the default shell
 # - Install the desired shell (e.g., Zsh, Fish).

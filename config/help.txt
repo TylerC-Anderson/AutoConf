@@ -1,0 +1,9 @@
+Usage: sudo ./autoconf.sh [--interactive | -i] [-u] [-c] [-h] [-e]
+Options:
+  --interactive, -i  Start interactive setup mode.
+  -c                 Set up coding environment.
+  -h                 Set up hacking environment.
+  -e                 Set up essentials environment.
+  -h                 Display this help message.
+
+  
