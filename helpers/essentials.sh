@@ -1,8 +1,6 @@
 #!/bin/bash
 
-# TODO: Update package lists and upgrade the system
-
-# TODO: Install general-purpose tools like curl, wget, git, zsh
+# TODO: Install general-purpose tools like wget, git, zsh
 
 # TODO: Install Starship prompt and minimal configuration
 
